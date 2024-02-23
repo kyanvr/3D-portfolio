@@ -1,0 +1,37 @@
+/**
+    * Quests
+    * Credits naar Rien Pieters voor het idee en de styling
+*/
+
+.quests {
+  font-family: monospace;
+  font-size: smaller;
+  left: 0;
+  padding: 0.25rem;
+  position: absolute;
+  margin-top: 10rem;
+  z-index: 999;
+  width: 20rem;
+}
+
+.quests ul {
+  display: flexbox;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+.quests ul li {
+  padding-top: 1em;
+  margin-top: 1em;
+}
+
+.quest_item {
+  background-color: hsla(0, 0%, 100%, 0.1);
+  border-radius: 0.25em;
+  color: #fff;
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0.5em 1em;
+}

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fpp-kyanvr/static/css/main.43d8093a.css",
+    "main.js": "/fpp-kyanvr/static/js/main.a7f10480.js",
+    "static/media/dumbbells.glb": "/fpp-kyanvr/static/media/dumbbells.7c0b93909bc123b4f907.glb",
+    "static/media/big_closet.glb": "/fpp-kyanvr/static/media/big_closet.fb086413c2701edd3b42.glb",
+    "static/media/bed.glb": "/fpp-kyanvr/static/media/bed.36951323de4209cddb58.glb",
+    "static/media/room.glb": "/fpp-kyanvr/static/media/room.0f8ac20b554f85faa286.glb",
+    "static/media/chair.glb": "/fpp-kyanvr/static/media/chair.0abb4d6aa6e1f8f9662b.glb",
+    "static/media/basketball.glb": "/fpp-kyanvr/static/media/basketball.dbce13fc18ba0b10a556.glb",
+    "static/media/snowboard.glb": "/fpp-kyanvr/static/media/snowboard.bb3be129212d130fcc23.glb",
+    "static/media/car.glb": "/fpp-kyanvr/static/media/car.75eed5e93a76fdc5cf0e.glb",
+    "static/media/posters.glb": "/fpp-kyanvr/static/media/posters.7fce81800590b69d45de.glb",
+    "static/media/nightstand.glb": "/fpp-kyanvr/static/media/nightstand.52b5af6498141e4dd0ac.glb",
+    "static/media/small_closet.glb": "/fpp-kyanvr/static/media/small_closet.b84163c88a9a14a69270.glb",
+    "static/media/desk.glb": "/fpp-kyanvr/static/media/desk.5b2329554d0c0064bab9.glb",
+    "index.html": "/fpp-kyanvr/index.html",
+    "main.43d8093a.css.map": "/fpp-kyanvr/static/css/main.43d8093a.css.map",
+    "main.a7f10480.js.map": "/fpp-kyanvr/static/js/main.a7f10480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d8093a.css",
+    "static/js/main.a7f10480.js"
+  ]
+}
